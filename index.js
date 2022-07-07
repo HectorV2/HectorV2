@@ -1,1 +1,80 @@
-const _0x28e330=_0x979b;function _0x1be1(){const _0x1834b2=['delay','node-fetch','text','redBright','3424AoJkrL','GET','317186uAwXbY','User','readline-sync','chalk-rainbow','Trophy\x20:\x20','\x0d\x0a♨\x20\x20[','http://kitkabackend.eastus.cloudapp.azure.com:5010/round/finishv2/3','greenBright','question','parse','Enter\x20Delay\x20In\x20Milisecond\x20:\x20','160ptMQRp','yellow','[+]\x20Input\x20you\x20token\x20:\x20','1239511uwkLAJ','72SUilgy','Crown\x20:\x20','log','Username','438QHctQd','Status\x20:\x20✓\x20Success','111962HkyLhO','SkillRating','HH:mm:ss','Country','\x0a██╗\x20\x20██╗███████╗\x20██████╗████████╗\x20██████╗\x20██████╗\x20\x0a██║\x20\x20██║██╔════╝██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗\x0a███████║█████╗\x20\x20██║\x20\x20\x20\x20\x20\x20\x20\x20██║\x20\x20\x20██║\x20\x20\x20██║██████╔╝\x0a██╔══██║██╔══╝\x20\x20██║\x20\x20\x20\x20\x20\x20\x20\x20██║\x20\x20\x20██║\x20\x20\x20██║██╔══██╗\x0a██║\x20\x20██║███████╗╚██████╗\x20\x20\x20██║\x20\x20\x20╚██████╔╝██║\x20\x20██║\x0a╚═╝\x20\x20╚═╝╚══════╝\x20╚═════╝\x20\x20\x20╚═╝\x20\x20\x20\x20╚═════╝\x20╚═╝\x20\x20╚═╝\x0a','202068utnpOU','Your\x20Account\x20Has\x20Been\x20Banned','23945npUUgi','then','clear','includes','Country\x20:\x20','catch','bgRed','Enter\x20Auth\x20Keys\x20:\x20','format','moment','\x20\x20\x0a~\x20\x20','chalk','80YoPKTX','Crowns','154627kmMyFc','\x0a~\x20\x20'];_0x1be1=function(){return _0x1834b2;};return _0x1be1();}(function(_0x412ad2,_0x2fa1ff){const _0x5a9a5e=_0x979b,_0x35d905=_0x412ad2();while(!![]){try{const _0x33cd46=-parseInt(_0x5a9a5e(0x12b))/0x1+parseInt(_0x5a9a5e(0x148))/0x2+parseInt(_0x5a9a5e(0x129))/0x3*(-parseInt(_0x5a9a5e(0x146))/0x4)+parseInt(_0x5a9a5e(0x132))/0x5*(parseInt(_0x5a9a5e(0x125))/0x6)+parseInt(_0x5a9a5e(0x124))/0x7+-parseInt(_0x5a9a5e(0x13e))/0x8*(parseInt(_0x5a9a5e(0x130))/0x9)+parseInt(_0x5a9a5e(0x153))/0xa*(parseInt(_0x5a9a5e(0x140))/0xb);if(_0x33cd46===_0x2fa1ff)break;else _0x35d905['push'](_0x35d905['shift']());}catch(_0x43e365){_0x35d905['push'](_0x35d905['shift']());}}}(_0x1be1,0x263ac));const fetch=require(_0x28e330(0x143)),moment=require(_0x28e330(0x13b)),chalk=require(_0x28e330(0x13d)),rs=require(_0x28e330(0x14a)),delay=require(_0x28e330(0x142)),chalkRainbow=require(_0x28e330(0x14b));function _0x979b(_0x187572,_0x898eb3){const _0x1be100=_0x1be1();return _0x979b=function(_0x979b00,_0x3f924e){_0x979b00=_0x979b00-0x124;let _0x5018ea=_0x1be100[_0x979b00];return _0x5018ea;},_0x979b(_0x187572,_0x898eb3);}function sleep(_0xfff79c){return new Promise(_0x16f256=>setTimeout(_0x16f256,_0xfff79c));}const GoStumble=_0x365d8d=>new Promise((_0x3567aa,_0x49eb0b)=>{const _0x2b2a19=_0x28e330;fetch(_0x2b2a19(0x14e),{'method':_0x2b2a19(0x147),'headers':{'authorization':_0x365d8d}})[_0x2b2a19(0x133)](_0x1d54f=>_0x1d54f[_0x2b2a19(0x144)]())[_0x2b2a19(0x133)](_0x322260=>{_0x3567aa(_0x322260);})[_0x2b2a19(0x137)](_0x132c4b=>{_0x49eb0b(_0x132c4b);});});((async()=>{const _0x44b9fe=_0x28e330,_0x503007=rs[_0x44b9fe(0x150)](chalk[_0x44b9fe(0x154)](_0x44b9fe(0x155)));if(_0x503007=='1'){await delay(0x1f4),console[_0x44b9fe(0x134)](''),console[_0x44b9fe(0x127)](chalk['greenBright'](_0x44b9fe(0x12f)));const _0x518a75=rs[_0x44b9fe(0x150)](chalk[_0x44b9fe(0x14f)](_0x44b9fe(0x139))),_0x550e96=rs[_0x44b9fe(0x150)](chalk[_0x44b9fe(0x14f)](_0x44b9fe(0x152)));console[_0x44b9fe(0x127)]('');while(!![]){const _0x3a9277=await GoStumble(_0x518a75);if(!_0x3a9277)console['log'](chalk[_0x44b9fe(0x145)]('Auth\x20Sudah\x20Expired'));else{if(_0x3a9277[_0x44b9fe(0x135)](_0x44b9fe(0x149))){const _0x127c91=JSON[_0x44b9fe(0x151)](_0x3a9277),_0x54d88e=_0x127c91['User'][_0x44b9fe(0x128)],_0x438e5e=_0x127c91['User'][_0x44b9fe(0x12e)],_0x3195c9=_0x127c91[_0x44b9fe(0x149)][_0x44b9fe(0x12c)],_0x35698a=_0x127c91['User'][_0x44b9fe(0x13f)];console[_0x44b9fe(0x127)](chalk[_0x44b9fe(0x14f)](_0x44b9fe(0x14d)+moment()[_0x44b9fe(0x13a)](_0x44b9fe(0x12d))+']\x20\x20♨\x0a~\x20\x20'+(_0x44b9fe(0x136)+_0x438e5e)+'\x0a~\x20\x20'+('Username\x20:\x20'+_0x54d88e)+'\x20\x20\x0a~\x20\x20'+(_0x44b9fe(0x126)+_0x35698a)+_0x44b9fe(0x13c)+(_0x44b9fe(0x14c)+_0x3195c9)+_0x44b9fe(0x141)+_0x44b9fe(0x12a))),await delay(_0x550e96);}else{if(_0x3a9277=='BANNED'){console[_0x44b9fe(0x127)](chalk[_0x44b9fe(0x138)](_0x44b9fe(0x131)));break;}}}}}})());
+const fetch = require('node-fetch');
+const moment = require('moment');
+const chalk = require('chalk');
+const rs = require('readline-sync');
+const delay = require('delay');
+const chalkRainbow = require('chalk-rainbow')
+
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+const GoStumble = (auth) => new Promise((resolve, reject) => {
+
+  fetch('http://kitkabackend.eastus.cloudapp.azure.com:5010/round/finishv2/3', {
+    method: 'GET',
+    headers: {
+      'authorization': auth
+    }
+  })
+    .then(res => res.text())
+    .then(data => {
+      resolve(data);
+    })
+    .catch(err => {
+      reject(err);
+    });
+
+});
+
+(async () => {
+const token = rs.question(chalk.red([+] Input you token : ));
+  if (token == "1") {
+    await delay(1000);
+    console.clear('');
+  console.log(chalk.blueBright(`
+██╗  ██╗███████╗ ██████╗████████╗ ██████╗ ██████╗ 
+██║  ██║██╔════╝██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗
+███████║█████╗  ██║        ██║   ██║   ██║██████╔╝
+██╔══██║██╔══╝  ██║        ██║   ██║   ██║██╔══██╗
+██║  ██║███████╗╚██████╗   ██║   ╚██████╔╝██║  ██║
+╚═╝  ╚═╝╚══════╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
+`));
+
+  const auth = rs.question(chalk.blueBright('Enter Auth Keys : '));
+  const time = rs.question(chalk.blueBright('Enter Delay In Milisecond : '));
+  console.log('');
+
+  while (true) {
+
+    const result = await GoStumble(auth);
+    if (!result) {
+
+      console.log(chalk.redBright(`Auth Sudah Expired`));
+
+    } else if (result.includes('User')) {
+
+      const data = JSON.parse(result);
+      const created = data.User.Created;
+      const loging = data.User.LastLogin
+      const username = data.User.Username;
+      const country = data.User.Country;
+      const trophy = data.User.SkillRating;
+      const crown = data.User.Crowns;
+
+      console.log(chalk.blueBright(`\r
+♨  [${moment().format('HH:mm:ss')}]  ♨
+~  ${(`Country : ${country}`)}
+~  ${(`Username : ${username}`)}  
+~  ${(`Crown : ${crown}`)}  
+~  ${(`Trophy : ${trophy}`)}
+~  ${(`Status : ✓ Success`)}`));
+      await delay(time)
+
+    } else if (result == 'BANNED') {
+      console.log(chalk.bgRed(`Your Account Has Been Banned`));
+      break;
+    }
+  }
+
+}})();
