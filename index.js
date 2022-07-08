@@ -44,8 +44,8 @@ const questions = [
     {
         type: "input",
         name: "auth",
-        message: color("Enter Auth Keys:"),
-        prefix: `${color("[", "redBright")}+${color("]", "redBright")}`,
+        message:(chalk.blue("Enter Auth Keys:"),
+        prefix: `${chalk.blue("[", "redBright"))}+${chalk.blue("]", "redBright"))}`,
         suffix: "~",
         validate: function (input) {
             const done = this.async();
@@ -58,8 +58,8 @@ const questions = [
     {
         type: "input",
         name: "delay",
-        message: color("Interval Delay:"),
-        prefix: `${color("[", "redBright")}+${color("]", "redBright")}`,
+        message: `${chalk.blue("Interval Delay:")),
+        prefix: `${chalk.blue("[", "redBright"))}+${chalk.blue("]", "redBright"))}`,
         suffix: "~",
         default: 1000,
         validate: function (input) {
