@@ -45,7 +45,7 @@ const questions = [
         type: "input",
         name: "auth",
         message:(chalk.blue("Enter Auth Keys:"),
-        prefix: `${chalk.blue("[", "redBright"))}+${chalk.blue("]", "redBright"))}`,
+        prefix: `${chalk.blue("[", "redBright"))}+${chalk.blue("]", "redBright"))}`;
         suffix: "~",
         validate: function (input) {
             const done = this.async();
@@ -59,7 +59,7 @@ const questions = [
         type: "input",
         name: "delay",
         message: `${chalk.blue("Interval Delay:")),
-        prefix: `${chalk.blue("[", "redBright"))}+${chalk.blue("]", "redBright"))}`,
+        prefix: `${chalk.blue("[", "redBright"))}+${chalk.blue("]", "redBright"))}`;
         suffix: "~",
         default: 1000,
         validate: function (input) {
