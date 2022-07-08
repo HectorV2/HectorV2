@@ -18,15 +18,15 @@ const GoStumble = (auth) => new Promise((resolve, reject) => {
            'se_response_compression': 'true',
            'Accept-Encoding': 'gzip',
            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64))',
-        }
-    })
-    .then(res => res.text())
-    .then(data => {
-      resolve(data);
-    })
-    .catch(err => {
-      reject(err);
-    });
+       }
+  })
+ .then(res => res.text())
+ .then(data => {
+    resolve(data);
+  })
+  .catch(err => {
+    reject(err);
+  });
 
 });
 
