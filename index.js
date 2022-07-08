@@ -42,11 +42,11 @@ const token = rs.question(chalk.greenBright(`[+] Input you token : `));
 
 const questions = [
     {
-        type: "input",
-        name: "auth",
-        message:(chalk.blue("Enter Auth Keys:"),
-        prefix: `${chalk.blue("[", "redBright"))}+${chalk.blue("]", "redBright"))}`:
-        suffix: "~",
+        type: 'input',
+        name: 'auth',
+        message: ${chalk.blue(`Enter Auth Keys:`));
+        prefix: `${chalk.blue(`[`, `redBright`))}+${chalk.blue(`]`, `redBright`))}:
+        suffix: '~',
         validate: function (input) {
             const done = this.async();
             if (!input) {
